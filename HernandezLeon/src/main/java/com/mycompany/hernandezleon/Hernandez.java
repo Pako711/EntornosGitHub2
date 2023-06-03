@@ -15,4 +15,12 @@ public class Hernandez {
         System.out.println("Hernandez");
     }
     
+    public void hola(){
+        System.out.println("hola");
+    }
+        
+        public void adios(){
+        System.out.println("adios");
+        }
+    
 }
