@@ -9,5 +9,7 @@ package com.mycompany.hernandezleon;
  * @author Paco
  */
 public class Leon {
-    
+    public void leon(){
+        System.out.println("Leon");
+    }
 }

@@ -10,4 +10,9 @@ package com.mycompany.hernandezleon;
  */
 public class Hernandez {
     
+    
+    public void hernandez(){
+        System.out.println("Hernandez");
+    }
+    
 }

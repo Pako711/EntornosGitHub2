@@ -3,6 +3,8 @@
  */
 
 package com.mycompany.hernandezleon;
+import com.mycompany.hernandezleon.Hernandez;
+import com.mycompany.hernandezleon.Leon;
 
 /**
  *
@@ -11,6 +13,6 @@ package com.mycompany.hernandezleon;
 public class HernandezLeon {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
     }
 }
